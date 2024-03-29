@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'pipi',
 
   // open graph metadata (optional)
-  description: 'ai tool share',
+  description: 'ai tool list',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
-  github: 'fengxb',
+  //github: 'fengxb',
   //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
